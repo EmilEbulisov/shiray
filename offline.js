@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707166383,
+	"version": 1707238853,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,8 +14,14 @@
 		"images/homebutton-sheet0.png",
 		"images/gamer-sheet0.png",
 		"images/room-sheet0.png",
+		"images/pol-sheet0.png",
+		"images/lestnici-sheet0.png",
+		"images/mom-sheet0.png",
+		"images/dialogicon-sheet0.png",
+		"images/momface-sheet0.png",
+		"images/shirayface-sheet0.png",
 		"images/sprite-sheet0.png",
-		"images/sprite2-sheet0.png",
+		"images/sprite-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
