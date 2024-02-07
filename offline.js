@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707247511,
+	"version": 1707296175,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,7 @@
 		"images/shirayface-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/sprite-sheet1.png",
+		"images/tiledbackground.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
