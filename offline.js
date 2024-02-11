@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707605976,
+	"version": 1707645303,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,10 @@
 		"media/zvuk-perelistyivaniya-stranitsyi.ogg",
 		"media/ambient 5 loop.m4a",
 		"media/ambient 5 loop.ogg",
+		"media/bbb3d32bab026ef.m4a",
+		"media/bbb3d32bab026ef.ogg",
+		"media/dbb4d1fe219939b.m4a",
+		"media/dbb4d1fe219939b.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
