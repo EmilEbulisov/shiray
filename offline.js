@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1707653825,
+	"version": 1708028482,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,8 +41,8 @@
 		"images/tiledbackground4.png",
 		"images/tiledbackground5.png",
 		"images/sprite10-sheet0.png",
-		"images/sprite13-sheet0.png",
-		"images/sprite13-sheet1.png",
+		"images/enemy-sheet0.png",
+		"images/enemy-sheet1.png",
 		"images/blockbutton-sheet0.png",
 		"images/blockbutton-sheet1.png",
 		"media/byistraya-hodba-po-graviyu-26129.m4a",
