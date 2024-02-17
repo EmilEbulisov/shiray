@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708123485,
+	"version": 1708127915,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,7 @@
 		"images/enemy-sheet1.png",
 		"images/enemy-sheet2.png",
 		"images/blockbutton-sheet0.png",
+		"images/monster-sheet0.png",
 		"media/byistraya-hodba-po-graviyu-26129.m4a",
 		"media/byistraya-hodba-po-graviyu-26129.ogg",
 		"media/promah-pri-boe-na-mechah.m4a",
@@ -73,6 +74,8 @@
 		"media/metllicheskiy-zvon-dostannogo-mecha.ogg",
 		"media/razrubayuschiy-udar-so-zvukami-lyuscheysya-krovi.m4a",
 		"media/razrubayuschiy-udar-so-zvukami-lyuscheysya-krovi.ogg",
+		"media/action 4 loop.m4a",
+		"media/action 4 loop.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
