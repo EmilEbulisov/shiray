@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708127915,
+	"version": 1708129658,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,7 @@
 		"images/enemy-sheet2.png",
 		"images/blockbutton-sheet0.png",
 		"images/monster-sheet0.png",
+		"images/sprite14-sheet0.png",
 		"media/byistraya-hodba-po-graviyu-26129.m4a",
 		"media/byistraya-hodba-po-graviyu-26129.ogg",
 		"media/promah-pri-boe-na-mechah.m4a",
