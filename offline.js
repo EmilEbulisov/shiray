@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708202052,
+	"version": 1709324419,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -51,6 +51,7 @@
 		"images/sprite14-sheet0.png",
 		"images/buuttons_-sheet0.png",
 		"images/lavvopersonaluseregular-sheet0.png",
+		"images/sprite15-sheet0.png",
 		"media/byistraya-hodba-po-graviyu-26129.m4a",
 		"media/byistraya-hodba-po-graviyu-26129.ogg",
 		"media/promah-pri-boe-na-mechah.m4a",
